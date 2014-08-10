@@ -1,0 +1,12 @@
+.centre {
+  margin: auto;
+  width: 256px;
+}
+
+body {
+  background-color: #000;
+}
+
+canvas {
+  positon: relative;
+}
